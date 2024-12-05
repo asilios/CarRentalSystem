@@ -1,5 +1,5 @@
-This application was developed for WebApplication module, as coursework portfolio project @ WIUT by student ID: 00013735
-As the reminder of 00013735/20 = 15. My project is Car Rental System
+#This application was developed for WebApplication module, as coursework portfolio project @ WIUT by student ID: 00013735
+#As the reminder of 00013735/20 = 15. My project is Car Rental System
 # Car Rental System
 
 ## Project Overview
